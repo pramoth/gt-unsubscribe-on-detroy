@@ -1,5 +1,9 @@
 # gt-unsubscribe-on-detroy
 Unsubscribe Angular component when OnDetroy.ngOnDetroy() was call.
+##installation
+```sh
+npm install --save gt-unsubscribe-on-detroy
+```
 ##Usage
 ```ts
 import { untilDestroyed } from 'gt-unsubscribe-on-detroy';
