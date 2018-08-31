@@ -15,6 +15,9 @@
         "posttest": "npm run check"
     },
     "author": "Pramoth Suwanpech",
+    "repository": {
+        "url": "https://github.com/pramoth/gt-unsubscribe-on-detroy"
+    },
     "license": "MIT",
     "devDependencies": {
         "@angular/core": "^6.1.4",
