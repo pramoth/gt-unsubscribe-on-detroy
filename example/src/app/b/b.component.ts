@@ -1,6 +1,6 @@
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import { MyServiceService } from '../my-service.service';
-import { unsubscribeOnDetroy } from 'gt-unsubscribe-on-detroy/dist/src';
+import { unsubscribeOnDetroy } from 'gt-unsubscribe-on-detroy';
 
 @Component({
   selector: 'app-b',
